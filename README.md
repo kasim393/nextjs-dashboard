@@ -5,6 +5,14 @@
 # Tech Used
 ![JavaScript](https://img.shields.io/badge/-TYPESCRIPT-9cf?style=for-the-badge&logo=typescript) ![React Router](https://img.shields.io/badge/-NEXT--JS-%23000?style=for-the-badge&logo=nextdotjs) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
+<details><summary>Tried first time Next js and typescript</summary>
+<p>
+
+#### Typescript is shit!
+
+</p>
+</details>
+
 
 ## Getting Started
 
