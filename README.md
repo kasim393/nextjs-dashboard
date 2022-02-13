@@ -1,4 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align="center">
+      <h1> <img src="https://raw.githubusercontent.com/kasim393/nextjs-dashboard/main/public/ss1.png" width="500px"><br/>Nextjs Dashboard</h1>
+     </div>
+
+# Tech Used
+![JavaScript](https://img.shields.io/badge/-TYPESCRIPT-9cf?style=for-the-badge&logo=typescript) ![React Router](https://img.shields.io/badge/-NEXT--JS-%23000?style=for-the-badge&logo=nextdotjs) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+
 
 ## Getting Started
 
